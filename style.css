@@ -24,3 +24,247 @@ text-align: center;
     font-size: 50px;
     padding: 50px;
 }
+.profile{
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+}
+.opening{
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    background: gainsboro;
+}
+.logo{
+    position: absolute;
+    width: 411px;
+    height: 434px;
+    left: 450px;
+    top: -30px;    
+}
+.logo-text{
+    position: absolute;
+    width: 810.75px;
+    height: 328.36px;
+    left: 300px;
+    top: 470px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 91px;
+    text-align: center;
+    color: #825050;
+}
+.data-diri{
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    background: lightgray;
+}
+.text1 h1{
+    position: absolute;
+    width: 618px;
+    height: 178px;
+    left: 490px;
+    top: 212px;
+    text-align: left;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 75px;
+    line-height: 91px;
+    color: #825050;
+}
+.text2{
+    position: absolute;
+    width: 196px;
+    height: 48px;
+    left: 490px;
+    top: 390px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+    color: brown;
+}
+.text3 h1{
+    position: absolute;
+    width: 743px;
+    height: 357px;
+    left: 500px;
+    top: 455px;
+    text-align: left;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 30px;
+    color: #000;
+}
+.foto1{
+    position: absolute;
+    width: 652px;
+    height: 909px;
+    left: 120px;
+    top: 50px;
+}
+.education{
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    background: gainsboro;
+}
+.text4{
+    position: absolute;
+    width: 479px;
+    height: 97px;
+    left: 493px;
+    top: 162px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 80px;
+    line-height: 97px;
+    color: #825050;
+}
+.foto2{
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: -26px;
+    top: 250px;
+}
+.text5{
+    position: absolute;
+    width: 824px;
+    height: 297px;
+    left: 493px;
+    top: 411px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 35px;
+    line-height: 42px;
+    color: #000000;
+}
+.experience1{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, auto));
+    grid-gap: 1.5rem;
+    align-items: center;
+    justify-content: center;
+    width: 1440px;
+    height: 1024px;
+    background: lightgray;
+}
+.foto-exp{
+    position: relative;
+    margin-top: 4rem;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.foto3 img{
+    width: 280px;
+    height: 500px;
+}
+.foto-exp p{
+    font-size: large;
+    font-weight: 600;
+    line-height: 2.5;
+    text-align: center;
+}
+.experience2{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, auto));
+    grid-gap: 1.5rem;
+    align-items: center;
+    justify-content: center;
+    width: 1440px;
+    height: 1024px;
+    background: gainsboro;
+}
+.foto-expp{
+    position: relative;
+    margin-top: 4rem;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.foto6 img{
+    width: 280px;
+    height: 500px;
+}
+.foto-expp p{
+    font-size: large;
+    font-weight: 600;
+    line-height: 2.5;
+    text-align: center;
+}
+.experience3{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, auto));
+    grid-gap: 1.5rem;
+    align-items: center;
+    justify-content: center;
+    width: 1440px;
+    height: 1024px;
+    background: lightgrey;
+}
+.foto-exppp{
+    position: relative;
+    margin-top: 4rem;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.foto9 img{
+    width: 280px;
+    height: 500px;
+}
+.foto-exppp p{
+    font-size: large;
+    font-weight: 600;
+    line-height: 2.5;
+    text-align: center;
+}
+.contact{
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    background: gainsboro;
+}
+.text7{
+    position: absolute;
+    width: 727px;
+    height: 350px;
+    left: 650px;
+    top: 300px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 97px;
+    color: #825050;
+}
+.foto10{
+    position: absolute;
+    width: 550px;
+    height: 829px;
+    left: 150px;
+    top: 111px;
+}
